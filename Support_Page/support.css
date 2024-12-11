@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+	background-color: #13131b;
+}
+
+.policiesPage {
+	padding: 10px;
+
+	color: white;
+}
+
+.polices-head {
+	display: flex;
+	gap: 6px;
+}
+
+.polices-head h4 {
+	padding: 0px;
+	margin: 0px;
+}
+
+.policesMenu-page {
+	background-color: #1c1c26;
+	border-radius: 6px;
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+	padding: 20px 25px;
+	color: white;
+}
+
+.privacy-page p,
+.privacy-page li {
+	color: #cbcbcb;
+	font-size: 14px;
+}
+
+.privacy-page ul {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.privacy-page a {
+	color: #00bcd4;
+}
